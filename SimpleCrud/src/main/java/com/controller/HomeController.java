@@ -13,6 +13,7 @@ ServiceI service;
 public String welcome()
 {
 	System.out.println("In welcome");
+	System.out.println("Mapping");
 	return "Login";
 }
 	
