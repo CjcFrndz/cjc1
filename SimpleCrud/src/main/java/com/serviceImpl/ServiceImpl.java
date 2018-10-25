@@ -7,6 +7,6 @@ import com.serviceI.ServiceI;
 
 @Service
 public class ServiceImpl implements ServiceI {
-	DaoI dao;
-
+	DaoI i;
+	//hello;
 }
